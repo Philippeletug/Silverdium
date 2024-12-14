@@ -28,38 +28,13 @@
             ]
         }
     },
-    "developers-project": {
-        "Silverdium.fr": [
+    "developersprog": {
+        "Silverdiumfr": [
             "Mister Papaye",
             "Gecko72"
         ],
-        "Silverdium-Launcher": [
+        "SilverdiumLauncher": [
             "Mister Papaye"
-        ],
-        "Silverdium": [
-            "Mister Papaye",
-            "Jemy5",
-            "Gecko72"
-        ]
-    },
-    "developers-type": {
-        "java": [
-            "michel"
-        ],
-        "JavaScript": [
-            "Gecko72",
-            "Mister Papaye",
-            "Jemy5"
-        ],
-        "html": [
-            "Gecko72",
-            "Mister Papaye",
-            "Jemy5"
-        ],
-        "css": [
-            "Gecko72",
-            "Mister Papaye",
-            "Jemy5"
         ]
     }
 }
