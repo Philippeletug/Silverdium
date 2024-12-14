@@ -15,13 +15,16 @@
         ],
         "staff": {
             "supmodo": [
-                "Sa pourait être toi !"
+                "Sa pourait être toi !",
+                ""
             ],
             "modo": [
-                "Sa pourait être toi !"
+                "Sa pourait être toi !",
+                ""
             ],
             "helpeur": [
-                "Pockettwist9"
+                "Pockettwist9",
+                ""
             ]
         }
     },
