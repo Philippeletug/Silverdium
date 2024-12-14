@@ -1,18 +1,17 @@
 {
     "ranks": {
-        "hautstaff": {
-            "administration": {
-                "fondateurs": [
-                    "Mister Papaye",
-                    "Jemy5"
-                ],
-                "admin": [
-                    "none"
-                ]
-            },
-            "responsable": [
+        "administration": {
+            "fondateurs": [
+                "Mister Papaye",
+                "Jemy5"
+            ],
+            "admin": [
                 "none"
             ]
+            },
+        "responsable": [
+            "none"
+        ]
         },
         "staff": {
             "supmodo": [
