@@ -1,0 +1,63 @@
+{
+    "ranks": {
+        "hautstaff": {
+            "administration": {
+                "fondateurs": [
+                    "Mister Papaye",
+                    "Jemy5"
+                ],
+                "admin": [
+                    "none"
+                ]
+            },
+            "responsable": [
+                "none"
+            ]
+        },
+        "staff": {
+            "supmodo": [
+                "none"
+            ],
+            "modo": [
+                "none"
+            ],
+            "helpeureuse": [
+                "none"
+            ]
+        }
+    },
+    "developers-project": {
+        "Silverdium.fr": [
+            "Mister Papaye",
+            "Gecko72"
+        ],
+        "Silverdium-Launcher": [
+            "Mister Papaye"
+        ],
+        "Silverdium": [
+            "Mister Papaye",
+            "Jemy5",
+            "Gecko72"
+        ]
+    },
+    "developers-type": {
+        "java": [
+            "michel"
+        ],
+        "JavaScript": [
+            "Gecko72",
+            "Mister Papaye",
+            "Jemy5"
+        ],
+        "html": [
+            "Gecko72",
+            "Mister Papaye",
+            "Jemy5"
+        ],
+        "css": [
+            "Gecko72",
+            "Mister Papaye",
+            "Jemy5"
+        ]
+    }
+}
