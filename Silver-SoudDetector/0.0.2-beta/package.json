@@ -1,0 +1,62 @@
+{
+  "name": "sound-detector",
+  "productName": "Silver-SoundDetector",
+  "version": "0.0.2-beta",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "build": "electron-builder",
+    "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start"
+  },
+  "author": "SilverCore <silvercore@example.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "7zip-bin": "^5.2.0",
+    "cross-env-shell": "^7.0.3",
+    "fs": "^0.0.1-security",
+    "javascript-obfuscator": "^4.1.1",
+    "jimp": "^1.6.0",
+    "mic": "^2.1.2",
+    "node_env": "^0.0.3",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "png2icons": "^2.0.1",
+    "remote": "^0.2.6",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "electron": "^33.2.1",
+    "electron-builder": "^25.1.8",
+    "electron-packager": "^17.1.2"
+  },
+  "build": {
+    "appId": "com.Silver-SoundDetector",
+    "productName": "Silver-SoundDetector",
+    "copyright": "Copyright © 2024 SilverCore",
+    "win": {
+      "icon": "src/assets/icon.ico",
+      "sign": false,
+      "target": [
+        "nsis",
+        "zip"
+      ]
+    },
+    "mac": {
+      "icon": "src/assets/icon.icns",
+      "category": "public.app-category.productivity",
+      "target": [
+        "dmg"
+      ]
+    },
+    "linux": {
+      "icon": "src/assets/icon.png",
+      "target": [
+        "deb",
+        "rpm",
+        "AppImage"
+      ]
+    }
+  }
+}
