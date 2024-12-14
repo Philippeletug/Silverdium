@@ -7,7 +7,7 @@ Silverdium est un serveur minecraft, voici son github qui regroupe ses projet.
 - **Copyright :** 2024 SilverCore
 - **Propriétaire :** SilverCore
 
-Tous les projets regroupés ici sont sous droit d'auteur avec interdiction d'utilisation comercial et autre sans demander l'accord de silvercore
+Tous les projets regroupés ici sont sous droit d'auteur avec interdiction d'utilisation comercial et autre sans demander l'accord de [SilverCore](https://github.com/SilverCore-Git).
 [link.silverdium.fr](https://link.silverdium.fr).
 
 ## Projets inclus
@@ -25,5 +25,5 @@ Tous les projets regroupés ici sont sous droit d'auteur avec interdiction d'uti
 
 ---
 
-Merci de soutenir les projets SilverCore !
+Merci de soutenir les projets [SilverCore](https://github.com/SilverCore-Git) !
 [Vous pouvez nous aider](https://tipeee.com/silverdium).
