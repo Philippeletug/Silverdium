@@ -9,9 +9,10 @@
                 "none"
             ]
         },
-        "responsable": [
-            "none"
-        ],
+        "responsable": {
+            "Developers": "Gecko72",
+            "Buildeurs": "ChatonBuilder"
+        },
         "staff": {
             "supmodo": [
                 "none"
